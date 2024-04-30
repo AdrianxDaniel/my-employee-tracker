@@ -3,7 +3,7 @@
 
 ## Description
 
-The Vault-Dweller-Tracker is a tool to better manage the dwellers within a the vaults. It allows users to view and/or edit the Vaults, add dwellers, and their roles within the vaults.
+The Vault-Dweller-Tracker is a tool to better manage the dwellers within the vaults. It allows users to view and/or edit the Vaults, add dwellers, and their roles within the vaults.
 
 https://youtu.be/_fNEc6k4WEk
 
